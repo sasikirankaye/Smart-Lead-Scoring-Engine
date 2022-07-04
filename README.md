@@ -16,5 +16,5 @@ To predict the propensity to buy a product based on the user's past activities a
 ## Important insights
 ### Item_Fat_Content
 
-<img src="https://github.com/sasikirankaye/Smart-Lead-Scoring-Engine/edit/main/images/Products_Purchased.png">
-The items bought are more of low fat
+<img src="https://github.com/sasikirankaye/Smart-Lead-Scoring-Engine/blob/main/Images/Products_purchased.png">
+The "0" class category products are considerably high
