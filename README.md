@@ -14,7 +14,22 @@ Problem Statement
 To predict the propensity to buy a product based on the user's past activities and user level information.
 
 ## Important insights
-### Item_Fat_Content
+### Products_purchased
 
 <img src="https://github.com/sasikirankaye/Smart-Lead-Scoring-Engine/blob/main/Images/Products_purchased.png">
 The "0" class category products are considerably high
+
+### Year
+
+<img src="https://github.com/sasikirankaye/Smart-Lead-Scoring-Engine/blob/main/Images/Year.png">
+The sales in the year 2020 and 2021 are more than 50% compared to overall sales
+
+### month
+
+<img src="https://github.com/sasikirankaye/Smart-Lead-Scoring-Engine/blob/main/Images/month.png">
+The sales are almost equal in all the months
+
+### day
+
+<img src="https://github.com/sasikirankaye/Smart-Lead-Scoring-Engine/blob/main/Images/day.png">
+There is no useful insight from the day feature
