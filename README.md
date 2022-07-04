@@ -1,5 +1,5 @@
 # Smart-Lead-Scoring-Engine
-Problem Statement
+
 
 A D2C startup develops products using cutting edge technologies like Web 3.0. Over the past few months, the company has started multiple marketing campaigns offline and digital both. As a result, the users have started showing interest in the product on the website. These users with intent to buy product(s) are generally known as leads (Potential Customers). 
 
@@ -9,3 +9,12 @@ Direct leads are captured via forms embedded in the website while indirect leads
 
 Now, the marketing & sales team wants to identify the leads who are more likely to buy the product so that the sales team can manage their bandwidth efficiently by targeting these potential leads and increase the sales in a shorter span of time.
 
+Problem Statement
+
+To predict the propensity to buy a product based on the user's past activities and user level information.
+
+## Important insights
+### Item_Fat_Content
+
+<img src="https://github.com/sasikirankaye/Smart-Lead-Scoring-Engine/edit/main/images/Products_Purchased.png">
+The items bought are more of low fat
