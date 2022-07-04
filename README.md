@@ -33,3 +33,15 @@ The sales are almost equal in all the months
 
 <img src="https://github.com/sasikirankaye/Smart-Lead-Scoring-Engine/blob/main/Images/day.png">
 There is no useful insight from the day feature
+
+# Predictive Modelling results
+In order to find a decent model to predict sales we performed an extensive search of various machine learning models available in Python. In the end, however, models from the h2o package yielded the best results for this task. In particular, deep learning neural networks h2o.deeplearning and gradient boosting regression trees h2o.gbm performed particularly well. An ensemble of various such models, constructed in h2oEnsemble. Here, we used only the 12 most important predictors to avoid over-fitting. To include some features we may have missed with this rather small subset of predictors we supplemented the ensemble with a deep learning neural net using 12 predictors.
+
+|model_id	|F1_Score  |
+| ------------- |
+|LogisticRegression|	0.731 |
+|Ridge Classifier	|0.70|
+|knn|	0.54757|
+|Support Vector Machine (SVM)|	0.63|
+|Bagged Decision Trees (Bagging)	|0.71|
+|Stochastic Gradient Boosting|	0.77|
